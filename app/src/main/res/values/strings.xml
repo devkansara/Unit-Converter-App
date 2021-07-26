@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="distance_conversion">Distance Conversion</string>
+    <string name="miles">Miles</string>
+    <string name="km">Km</string>
+    <string name="distance_converter">Distance Converter</string>
+    <string name="convert_miles_to_km">Convert Miles to Km</string>
+    <string name="convert_km_to_miles">Convert Km to Miles</string>
+    <string name="converter">Converter</string>
+    <string name="conversion_of_km_and_miles">Conversion of Km and Miles</string>
+    <string name="back">back</string>
+    <string name="conversion_of_kilometre_and_mile">Conversion of Kilometre and Mile</string>
+    <string name="conversion_of_centimeter_inch_and_foot">Conversion of Centimeter, Inch and Foot</string>
+    <string name="conversion_of_kelvin_celsius_and_fahrenheit">Conversion of Kelvin, Celsius and Fahrenheit</string>
+    <string name="length_converter">Length Converter</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="inch">Inch</string>
+    <string name="foot">Foot</string>
+    <string name="convert_centimeter_to_inch_and_foot">Convert Centimeter to Inch and Foot</string>
+    <string name="convert_foot_to_centimeter_and_inch">Convert Foot to Centimeter and Inch</string>
+    <string name="convert_inch_to_centimeter_and_foot">Convert Inch to Centimeter and Foot</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="convert_kelvin_to_celsius_and_fahrenheit">Convert Kelvin to Celsius and Fahrenheit</string>
+    <string name="convert_celsius_to_kelvin_and_fahrenheit">Convert Celsius to Kelvin and Fahrenheit</string>
+    <string name="convert_fahrenheit_to_kelvin_and_celsius">Convert Fahrenheit to Kelvin and Celsius</string>
+</resources>
